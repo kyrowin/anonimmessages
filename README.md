@@ -1,22 +1,22 @@
 ## How to use
 install python 3.12
 
-install git
-sudo apt install git
+**install git**
+$ sudo apt install git
 
-clone repository
-git clone https://github.com/kyrowin/anonimmessages.git
+**clone repository**
+$ git clone https://github.com/kyrowin/anonimmessages.git
 
-open folder
-cd anonimmessages
+**open folder**
+$ cd anonimmessages
 
-install libs
-pip install -r requirements.txt
+**install libs**
+$ pip install -r requirements.txt
 
-add bot token and your user id to bot.py
+**add bot token and your user id to bot.py**
 
-start bot
-python bot.py
+**start bot**
+$ python bot.py
 
 enjoy!
 
